@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qaqijaha.github.io/sitemap/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/FVJ/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/CGj/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/WpE/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/TWI/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/Civ/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/hNJ/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/gmv/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/Pdg/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/Bfx/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/uJO/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/Jws/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/AED/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/gqN/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/gAq/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/fHc/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/qNT/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/ZAN/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/YoH/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/gnP/sitemap_index.qaqijaha
+Sitemap: https://qaqijaha.github.io/Gou/sitemap_index.qaqijaha
